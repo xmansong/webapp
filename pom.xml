@@ -28,6 +28,9 @@
 	        <artifactId>jackson-mapper-asl</artifactId>
 	        <version>1.7.1</version>
 	    </dependency>
+	    <!-- test -->
 	  
+	  
+	  <!-- xmansong -->
 	  </dependencies>  
 </project>
