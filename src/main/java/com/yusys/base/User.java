@@ -8,5 +8,5 @@ public class User {
  private String id3;
  private String id5;
  private String id4;
- private String id6;
+ private String id61;
 }
