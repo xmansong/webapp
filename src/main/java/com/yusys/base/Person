@@ -13,7 +13,7 @@ public class Customer {
 	private String userName;
 
 	public void setUserName(String userName) {
-		this.userName = userName;
-	}
-
+		this.userName = userName;//
+	}//
+//
 }
