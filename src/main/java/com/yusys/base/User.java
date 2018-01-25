@@ -11,4 +11,7 @@ public class User {
 
  private String id6abc; //eeeeee
  private String xx; //eeeeee
+
+ private String id6abc; //211111222211111
+ private String xx; //211222222211111111
 }
