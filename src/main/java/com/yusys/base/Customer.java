@@ -6,7 +6,7 @@ package com.yusys.base;
  * @Description:
  * @Author dusong
  * @Date 2017-4-7xxxxxxxxxxxxxx
- * @Version 1.0
+ * @Version 1.0111
  */
 public class Customer {
 
