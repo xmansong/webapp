@@ -8,6 +8,6 @@ public class User {
  private String id3;
  private String id5;
  private String id4;
- private String id6abc; //
- private String xx; //
+ private String id6abc; //2
+ private String xx; //2
 }
